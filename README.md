@@ -50,12 +50,12 @@ node index.js
 ## 🧪 Example Commands
 
 Here are some example prompts you can try with the bot:
-- Use /code <your request> to generate code
-- use /help to get Instructions
-#### - Generate a Python function to check for prime numbers:
-#### 🔹 HTML + CSS responsive card:
-#### 🔹 JavaScript countdown timer:
-#### 🔹 SQL query to join two tables:
+#### 🔹 Use /code <your request> to generate code
+#### 🔹 /help to get Instructions
+
+- /code Generate a C++ program for palindrome checking:
+- /code HTML + CSS responsive card:
+- /code SQL query to join two tables:
 
 
 
