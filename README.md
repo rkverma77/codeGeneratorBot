@@ -20,3 +20,8 @@ A Telegram bot powered by Google's Gemini API that generates clean, commented co
 ```bash
 git clone https://github.com/your-username/gemini-telegram-code-bot.git
 cd gemini-telegram-code-bot
+```
+###2. Install dependencies
+```bash
+npm install
+```
