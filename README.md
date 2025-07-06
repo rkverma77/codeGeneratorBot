@@ -26,3 +26,11 @@ cd codeGeneratorBot
 ```bash
 npm install
 ```
+
+### 3. Create .env file
+```.env
+TELEGRAM_TOKEN=your_telegram_bot_token
+GEMINI_API_KEY=your_google_gemini_api_key
+GEMINI_MODEL=gemini-1.5-flash
+```
+
