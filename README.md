@@ -41,10 +41,23 @@ node index.js
 ```
 
 ## 🔧 Technologies Used
+
 - Node.js
 - node-telegram-bot-api
 - @google/genai
 - dotenv
+
+## 🧪 Example Commands
+
+Here are some example prompts you can try with the bot:
+- Use /code <your request> to generate code
+- use /help to get Instructions
+#### 🔹 Generate a Python function to check for prime numbers:
+#### 🔹 HTML + CSS responsive card:
+#### 🔹 JavaScript countdown timer:
+#### 🔹 SQL query to join two tables:
+
+
 
 
 
