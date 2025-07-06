@@ -31,6 +31,20 @@ npm install
 ```.env
 TELEGRAM_TOKEN=your_telegram_bot_token
 GEMINI_API_KEY=your_google_gemini_api_key
-GEMINI_MODEL=gemini-1.5-flash
+GEMINI_MODEL=gemini-2.5-flash
 ```
+You may change the model to gemini-1.5-pro or gemini-2.5-flash if your API key supports it.
+
+### 4. Run the Bot
+```bash
+node index.js
+```
+
+## 🔧 Technologies Used
+- Node.js
+- node-telegram-bot-api
+- @google/genai
+- dotenv
+
+
 
